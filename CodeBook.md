@@ -1,7 +1,4 @@
----
-title: "**Code Book**"
-output: html_document
----
+# **Code Book**
 
 This code book is prepared as part of the Course Project for "Getting and Cleaning Data" - a course in the Data Science Specialization by Johns Hopkins University on Coursera
 
