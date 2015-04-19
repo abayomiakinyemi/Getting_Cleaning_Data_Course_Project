@@ -91,5 +91,6 @@ order()
 write.table()
 ```
 
+The scripts also displays the tidy dataset.
 
 
