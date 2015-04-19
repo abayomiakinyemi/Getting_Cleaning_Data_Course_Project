@@ -1,5 +1,5 @@
 ---
-title: "Code Book"
+title: "**Code Book**"
 output: html_document
 ---
 
