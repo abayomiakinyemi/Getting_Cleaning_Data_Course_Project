@@ -83,7 +83,7 @@ factor()
 names()
 gsub()
 ```
-- Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+- Creates a second, independent tidy data set with the average of each variable for each activity and each subject using:
 ```{r}
 library(plyr)
 aggregate()
