@@ -21,7 +21,7 @@ The raw data was downloaded from the UCI Machine Learning Repository using the l
 
 ### Description
 
-The dataset includes the following files:
+The dataset includes the following files (as described in 'README.txt' included in the dataset):
 
 + 'README.txt': Gives the description of the files and data available in the dataset
 + 'features_info.txt': Shows variables information used on the _features_ variable
@@ -32,7 +32,7 @@ The dataset includes the following files:
 + 'test/X_test.txt': Test set.
 + 'test/y_test.txt': Test labels.
 
-The following files are available for the train and test data.
+The following files are available for the train and test data (as described in 'README.txt' included in the dataset).
 
 + 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
